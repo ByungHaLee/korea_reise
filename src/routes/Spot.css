@@ -1,0 +1,23 @@
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.spotitems {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    padding:50px;
+
+}
+.spotitems .spotitem {
+    width: 45%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.spotitems .spotitem img {
+    width:300px;
+
+}
