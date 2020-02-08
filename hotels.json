@@ -1,0 +1,246 @@
+{
+    "fields": [
+        {
+            "id": "addr1"
+        },
+        {
+            "id": "areacode"
+        },
+        {
+            "id": "cat1"
+        },
+        {
+            "id": "cat2"
+        },
+        {
+            "id": "cat3"
+        },
+        {
+            "id": "contentid"
+        },
+        {
+            "id": "contenttypeid"
+        },
+        {
+            "id": "createdtime"
+        },
+        {
+            "id": "firstimage"
+        },
+        {
+            "id": "firstimage2"
+        },
+        {
+            "id": "mapx"
+        },
+        {
+            "id": "mapy"
+        },
+        {
+            "id": "mlevel"
+        },
+        {
+            "id": "modifiedtime"
+        },
+        {
+            "id": "readcount"
+        },
+        {
+            "id": "sigungucode"
+        },
+        {
+            "id": "tel"
+        },
+        {
+            "id": "title"
+        }
+    ],
+    "records": [
+        {
+            "contentid": "1842315",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/76/1197476_image2_1.jpg",
+            "tel": "+82-51-638-1045",
+            "sigungucode": "7",
+            "mlevel": "6",
+            "areacode": "6",
+            "contenttypeid": "80",
+            "title": "토요코인호텔 (부산서면)",
+            "cat1": "B02",
+            "addr1": "39/ Seojeon-ro/ Busanjin-gu/ Busan",
+            "cat3": "B02010100",
+            "cat2": "B0201",
+            "createdtime": "20130904172421",
+            "modifiedtime": "20180306135624",
+            "readcount": "49266",
+            "mapx": "129.0640857434",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/76/1197476_image3_1.jpg",
+            "mapy": "35.1579865839"
+        },
+        {
+            "contentid": "497140",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/33/1610933_image2_1.jpg",
+            "tel": "+82-55-687-3761",
+            "sigungucode": "1",
+            "mlevel": "6",
+            "areacode": "36",
+            "contenttypeid": "80",
+            "title": "Admiral Hotel (애드미럴호텔)",
+            "cat1": "B02",
+            "addr1": "330-4/ Okpo 1-dong/ Geoje-si/ Gyeongsangnam-do",
+            "cat3": "B02010100",
+            "cat2": "B0201",
+            "createdtime": "20080124130251",
+            "modifiedtime": "20190812095036",
+            "readcount": "444",
+            "mapx": "128.6875535184",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/33/1610933_image3_1.jpg",
+            "mapy": "34.8896902795"
+        },
+        {
+            "contentid": "497630",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/2579772_image2_1.jpg",
+            "tel": "+82-2-3672-7970",
+            "sigungucode": "23",
+            "mlevel": "6",
+            "areacode": "1",
+            "contenttypeid": "80",
+            "title": "Amiga Motel [A Good Stay Accommodation]",
+            "cat1": "B02",
+            "addr1": "Seoul/ Jongno-gu/ Yeonji-dong/ 193-9",
+            "cat3": "B02010900",
+            "cat2": "B0201",
+            "createdtime": "20080124114745",
+            "modifiedtime": "20190109173426",
+            "readcount": "236",
+            "mapx": "126.9994133852",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/2579772_image3_1.jpg",
+            "mapy": "37.5726927951"
+        },
+        {
+            "contentid": "1319418",
+            "sigungucode": "28",
+            "areacode": "31",
+            "contenttypeid": "80",
+            "title": "Asia Tourist Hotel (아시아관광호텔)",
+            "cat1": "B02",
+            "addr1": "297-61/ Sinjang-dong/ Pyeongtaek-si/ Gyeonggi-do",
+            "cat3": "B02010100",
+            "cat2": "B0201",
+            "createdtime": "20110629090013",
+            "modifiedtime": "20140903153632",
+            "readcount": "1296",
+            "mapx": "127.0509281023",
+            "mapy": "37.0790453634"
+        },
+        {
+            "contentid": "1352687",
+            "tel": "+82-2-2277-4917",
+            "sigungucode": "24",
+            "mlevel": "4",
+            "areacode": "1",
+            "contenttypeid": "80",
+            "title": "BENIKEA Hotel Acacia (베니키아 호텔 아카시아)",
+            "cat1": "B02",
+            "addr1": "360/ Dongho-ro/ Jung-gu/ Seoul",
+            "cat3": "B02010100",
+            "cat2": "B0201",
+            "createdtime": "20110805151155",
+            "modifiedtime": "20140610101627",
+            "readcount": "1065",
+            "mapx": "127.0026021588",
+            "mapy": "37.5665102380"
+        },
+        {
+            "contentid": "1272243",
+            "tel": "+82-2-2250-8000",
+            "sigungucode": "24",
+            "mlevel": "6",
+            "areacode": "1",
+            "contenttypeid": "80",
+            "title": "Banyan Tree Club & Spa Seoul (반얀트리 클럽 앤 스파 서울)",
+            "cat1": "B02",
+            "addr1": "60/ Jangchungdan-ro/ Jung-gu/ Seoul",
+            "cat3": "B02010400",
+            "cat2": "B0201",
+            "createdtime": "20110506151109",
+            "modifiedtime": "20190712110846",
+            "readcount": "2755",
+            "mapx": "127.0005250345",
+            "mapy": "37.5501287700"
+        },
+        {
+            "contentid": "1220876",
+            "tel": "+82-61-686-7977",
+            "sigungucode": "13",
+            "mlevel": "6",
+            "areacode": "38",
+            "contenttypeid": "80",
+            "title": "Bellagio Hotel (벨라지오관광호텔) ",
+            "cat1": "B02",
+            "addr1": "13/ Sicheongseo 6-gil/ Yeosu-si/ Jeollanam-do",
+            "cat3": "B02010100",
+            "cat2": "B0201",
+            "createdtime": "20110302135025",
+            "modifiedtime": "20190729111453",
+            "readcount": "1318",
+            "mapx": "127.6563052062",
+            "mapy": "34.7595866151"
+        },
+        {
+            "contentid": "497249",
+            "tel": "+82-2-2296-2244~8",
+            "sigungucode": "16",
+            "mlevel": "6",
+            "areacode": "1",
+            "contenttypeid": "80",
+            "title": "Best Western Hotel Vision (베스트 웨스턴 호텔 비젼)",
+            "cat1": "B02",
+            "addr1": "277/ Gosanja-ro/ Seongdong-gu/ Seoul",
+            "cat3": "B02010100",
+            "cat2": "B0201",
+            "createdtime": "20080124115347",
+            "modifiedtime": "20171020112145",
+            "readcount": "985",
+            "mapx": "127.0359797301",
+            "mapy": "37.5645110700"
+        },
+        {
+            "contentid": "496956",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/37/2534437_image2_1.jpg",
+            "tel": "+82-2-735-8800/ +82-2-3701-0553",
+            "sigungucode": "24",
+            "mlevel": "6",
+            "areacode": "1",
+            "contenttypeid": "80",
+            "title": "Best Western New Seoul Hotel (베스트웨스턴 뉴서울호텔)",
+            "cat1": "B02",
+            "addr1": "16/ Sejong-daero 22-gil/ Jung-gu/ Seoul",
+            "cat3": "B02010100",
+            "cat2": "B0201",
+            "createdtime": "20080124141216",
+            "modifiedtime": "20180612144147",
+            "readcount": "1388",
+            "mapx": "126.9781598996",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/37/2534437_image2_1.jpg",
+            "mapy": "37.5679957373"
+        },
+        {
+            "contentid": "1011120",
+            "tel": "+82-2-6474-2000",
+            "sigungucode": "1",
+            "mlevel": "6",
+            "areacode": "1",
+            "contenttypeid": "80",
+            "title": "Best Western Premier Gangnam Hotel(베스트웨스턴 프리미어 강남호텔)",
+            "cat1": "B02",
+            "addr1": "139/ Bongeunsa-ro/ Gangnam-gu/ Seoul",
+            "cat3": "B02010100",
+            "cat2": "B0201",
+            "createdtime": "20100429091335",
+            "modifiedtime": "20170803103242",
+            "readcount": "983",
+            "mapx": "127.0297902750",
+            "mapy": "37.5063677122"
+        }
+    ]
+}
