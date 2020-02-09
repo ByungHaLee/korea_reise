@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2dc8a5dca281c4abea9813d8c87cdb74",
+    "revision": "e4519f98b2509ce23cb28a1ffd981263",
     "url": "/korea_reise/index.html"
   },
   {
-    "revision": "377795cefb4b9e8c2840",
+    "revision": "62897d2c22571dcdcd05",
     "url": "/korea_reise/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "757c6a2b9067c3c5b736",
+    "revision": "a5954622f96f22f33e3a",
     "url": "/korea_reise/static/css/main.92076ec7.chunk.css"
   },
   {
-    "revision": "377795cefb4b9e8c2840",
-    "url": "/korea_reise/static/js/2.252c9c24.chunk.js"
+    "revision": "62897d2c22571dcdcd05",
+    "url": "/korea_reise/static/js/2.83d8527c.chunk.js"
   },
   {
     "revision": "bf23039b4e70a07c5aeb1b4010df3572",
-    "url": "/korea_reise/static/js/2.252c9c24.chunk.js.LICENSE.txt"
+    "url": "/korea_reise/static/js/2.83d8527c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "757c6a2b9067c3c5b736",
-    "url": "/korea_reise/static/js/main.a84e5ca8.chunk.js"
+    "revision": "a5954622f96f22f33e3a",
+    "url": "/korea_reise/static/js/main.05613640.chunk.js"
   },
   {
     "revision": "07376417650ff06eded9",

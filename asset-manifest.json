@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/korea_reise/static/css/main.92076ec7.chunk.css",
-    "main.js": "/korea_reise/static/js/main.a84e5ca8.chunk.js",
-    "main.js.map": "/korea_reise/static/js/main.a84e5ca8.chunk.js.map",
+    "main.js": "/korea_reise/static/js/main.05613640.chunk.js",
+    "main.js.map": "/korea_reise/static/js/main.05613640.chunk.js.map",
     "runtime-main.js": "/korea_reise/static/js/runtime-main.71d4d698.js",
     "runtime-main.js.map": "/korea_reise/static/js/runtime-main.71d4d698.js.map",
     "static/css/2.47e06e2e.chunk.css": "/korea_reise/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.252c9c24.chunk.js": "/korea_reise/static/js/2.252c9c24.chunk.js",
-    "static/js/2.252c9c24.chunk.js.map": "/korea_reise/static/js/2.252c9c24.chunk.js.map",
+    "static/js/2.83d8527c.chunk.js": "/korea_reise/static/js/2.83d8527c.chunk.js",
+    "static/js/2.83d8527c.chunk.js.map": "/korea_reise/static/js/2.83d8527c.chunk.js.map",
     "index.html": "/korea_reise/index.html",
-    "precache-manifest.7e9e53fcb22c3f22ecf2ec5c73f8a0c8.js": "/korea_reise/precache-manifest.7e9e53fcb22c3f22ecf2ec5c73f8a0c8.js",
+    "precache-manifest.bb891482b784822c511a42c6150b406f.js": "/korea_reise/precache-manifest.bb891482b784822c511a42c6150b406f.js",
     "service-worker.js": "/korea_reise/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/korea_reise/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.92076ec7.chunk.css.map": "/korea_reise/static/css/main.92076ec7.chunk.css.map",
-    "static/js/2.252c9c24.chunk.js.LICENSE.txt": "/korea_reise/static/js/2.252c9c24.chunk.js.LICENSE.txt"
+    "static/js/2.83d8527c.chunk.js.LICENSE.txt": "/korea_reise/static/js/2.83d8527c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.71d4d698.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.252c9c24.chunk.js",
+    "static/js/2.83d8527c.chunk.js",
     "static/css/main.92076ec7.chunk.css",
-    "static/js/main.a84e5ca8.chunk.js"
+    "static/js/main.05613640.chunk.js"
   ]
 }
