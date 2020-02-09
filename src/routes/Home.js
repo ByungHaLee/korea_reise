@@ -1,17 +1,23 @@
 import React from 'react';
-import Jumbotron from 'react-bootstrap/Jumbotron';
+import { Link } from 'react-router-dom';
+//import Jumbotron from 'react-bootstrap/Jumbotron';
 import './Home.css';
 
 
-class Home extends React.Component {
-    render(){
-       return (
-        <Jumbotron fluid="false" className="title">
-            <h1>Nach Südkorea</h1>
-        </Jumbotron>
-       ); 
+function Home () {
+    return (
+        <div className="main">
+            <h1>Welcome to Korea!</h1>
+            <section className="menus">
+
+            <div className="menu m1"><Link to="/spot"><span>Spot</span></Link></div>
+            <div className="menu m2"><Link to="/hotel"><span>Hotel</span></Link></div>
+        </section>
+        </div>
+        
+    
+    ); 
        
-    }
 }
 
 

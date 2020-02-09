@@ -16,6 +16,7 @@ class Spot extends React.Component {
         this.getSpots();
     }
     render (){
+        
         const { data } = this.state;
         return (
             <section classNmae="container">
