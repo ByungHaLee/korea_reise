@@ -15,10 +15,10 @@ class App extends React.Component {
     
       <HashRouter>
         <Navigation />  
-        <Route path={process.env.PUBLIC_URL + '/'} exact={true} component={Home} />
-        <Route path={process.env.PUBLIC_URL + '/spot'} component={Spot} />
-        <Route path={process.env.PUBLIC_URL + '/hotel'} component={Hotel} />
-        <Route path={process.env.PUBLIC_URL + '/hotel-detail/:id'} component={Detail} />
+        <Route path="/" exact={true} component={Home} />
+        <Route path="/spot" component={Spot} />
+        <Route path="/hotel" component={Hotel} />
+        <Route path="/hotel-detail/:id" component={Detail} />
       </HashRouter>
       
     )

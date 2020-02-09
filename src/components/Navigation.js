@@ -13,7 +13,8 @@ class Navigation extends React.Component {
             ? <span></span> 
             :
             <Navbar fixed="top">
-                <Navbar.Brand href="/">Home</Navbar.Brand>
+                <Navbar.Brand><Link to="/">Home</Link></Navbar.Brand>
+                
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Link to="/spot">Spot</Link>
                     <Link to="/hotel">Hotel</Link>
