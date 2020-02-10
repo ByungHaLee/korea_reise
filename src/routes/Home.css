@@ -15,12 +15,7 @@ body {
     height: 100%;
     color:#282828;
 }
-a:link,
-a:visited,
-a:hover {
-    color:#282828;
-    text-decoration: none;
-}
+
 #root {
     height:100%;
 }

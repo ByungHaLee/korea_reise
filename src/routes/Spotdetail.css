@@ -1,0 +1,8 @@
+.spotdetails {
+    display: flex;
+    justify-content: center;
+    padding-top:4em;
+}
+.spotdetails h3 {
+    text-align: center;
+}

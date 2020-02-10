@@ -15,7 +15,6 @@ class Hotel extends React.Component {
         const {
             data: {records}
         } = await axios.get("./hotels.json");
-        console.log(records);
         this.setState({ records, isLoading: false});
     };
     componentDidMount() {
@@ -23,7 +22,7 @@ class Hotel extends React.Component {
     }
     render(){
         const { isLoading, records } = this.state;
-     
+        console.log(this.state)
         return (
             <section className="container">
                 {isLoading
@@ -39,13 +38,14 @@ class Hotel extends React.Component {
                                     state:{
                                         title:hotel.title,
                                         tel:hotel.tel,
-                                        add:hotel.add
+                                        add:hotel.addr1,
+                                        info:hotel.information
                                     }
                             
                         }}>
-                                    <h3>{hotel.title}</h3>
-                                    <p>tel: {hotel.tel}</p>
-                                    <p>add: {hotel.add}</p>
+                                    <h5>{hotel.title}</h5>
+                                    <p>Tel: {hotel.tel}</p>
+                                    <p>{hotel.addr1}</p>
                                 </Link>
                                 
                             </div>

@@ -1,15 +1,15 @@
 import React from 'react';
 import axios from 'axios';
+import { Link } from 'react-router-dom';
 import './Spot.css';
 
 class Spot extends React.Component {
     state = {
+        isLoading: true,
         data:[]
     }
     getSpots = async () => {
-        const {
-            data
-        } = await axios.get("./tourspot.json");
+        const { data } = await axios.get("./tourspot.json");
         this.setState({ data, isLoading: false});
     }
     componentDidMount () {
@@ -17,19 +17,41 @@ class Spot extends React.Component {
     }
     render (){
         
-        const { data } = this.state;
+        const { isLoading, data } = this.state;
         return (
-            <section classNmae="container">
-                <div className="spotitems">
-                    {data.map(spotitems => (
-                        <div className="spotitem">
-                            <span>{spotitems.no}</span>
-                            <h3>{spotitems.name}</h3>
-                            <img src={spotitems.image} alt={spotitems.name} title={spotitems.name} />
-                            <a href={spotitems.link}>{spotitems.link}</a>
-                        </div>
-                    ))}
+            <section className="container">
+                {isLoading ? 
+                (<div className="loader">
+                    <span className="loader__text">Loading...</span>
                 </div>
+                ) : (
+                    <div className="spotitems">
+                        {data.map(spotitems => (
+                            <div className="spotitem">
+                                <Link to={
+                                    {pathname:`/spot-detail/${spotitems.no}`,
+                                    state: {
+                                        id:spotitems.no,
+                                        name:spotitems.name,
+                                        image:spotitems.image,
+                                        link:spotitems.link
+                                    }}}>
+                                    <h5>{spotitems.name}</h5>
+                                    <img src={spotitems.image} alt={spotitems.name} title={spotitems.name} />
+                                </Link>
+                                
+                                
+                                
+                               
+                                
+                               
+                            </div>
+                        ))}
+                    </div>
+                )
+
+                }
+                
             </section>
             
         );

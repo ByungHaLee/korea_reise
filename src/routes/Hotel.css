@@ -12,3 +12,8 @@
     margin-bottom: 10px;
     border-color: black;
 }
+
+.hotels .hotel h5 {
+    font-size: 1em;
+    font-weight: bold;
+}
