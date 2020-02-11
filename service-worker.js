@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/korea_reise/precache-manifest.b083382f0fe1558bcbd47eb72debe91c.js"
+  "/korea_reise/precache-manifest.287b20ded435e1ec1436509220b88c98.js"
 );
 
 self.addEventListener('message', (event) => {
