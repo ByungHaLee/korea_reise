@@ -2,7 +2,21 @@
     display: flex;
     justify-content: center;
     padding-top:4em;
+    height:100%;
+}
+
+.spotdetails .spotdetail {
+    flex:1;
+    flex-direction: column;
 }
 .spotdetails h3 {
     text-align: center;
+}
+.spotdetails img {
+    display: flex;
+    margin: auto;
+}
+.spotdetails a {
+    text-align: center;
+    display: block;
 }

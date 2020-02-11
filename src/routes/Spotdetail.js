@@ -14,10 +14,11 @@ class Spotdetail extends React.Component {
         if(location.state){
             return (
                 <div className="spotdetails">
-                    <h3>{location.state.name}</h3>
-                    <img src={location.state.image} alt={location.state.name} title={location.state.name} />
-                    <a href={location.state.link}>more informations in German</a>
-                    
+                    <div className="spotdetail">
+                        <h3>{location.state.name}</h3>
+                        <img src={location.state.image} alt={location.state.name} />
+                        <a href={location.state.link}>{location.state.link}</a>
+                    </div>
                 </div>
             )
         } else {

@@ -1,0 +1,15 @@
+.hoteldetails {
+    display: flex;
+    justify-content: center;
+    /* padding-top:4em; */
+    height:100%;
+    flex-direction: column;
+}
+.hoteldetails h5,
+.hoteldetails span {
+    text-align: center;
+}
+
+.hoteldetails span{
+    padding-top:0.5em;
+}
